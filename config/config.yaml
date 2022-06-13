@@ -1,0 +1,2 @@
+DataSource:
+  root:19970530zfq.@tcp(47.100.21.38:3306)/seckill?charset=utf8mb4&parseTime=True&loc=Local
